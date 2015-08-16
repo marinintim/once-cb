@@ -1,0 +1,30 @@
+{
+  "name": "once-cb",
+  "version": "1.0.0",
+  "description": "wrapper for calling callback only once",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "tape": "^4.2.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marinintim/once-cb.git"
+  },
+  "keywords": [
+    "once",
+    "wrapper"
+  ],
+  "author": "Tim Marinin <marinintim@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinintim/once-cb/issues"
+  },
+  "homepage": "https://github.com/marinintim/once-cb"
+}
