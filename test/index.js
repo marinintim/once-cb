@@ -1,6 +1,4 @@
 var test = require('tape')
-var path = require('path')
-var fixtures = path.join(__dirname, 'fixtures/')
 
 var once = require('../')
 

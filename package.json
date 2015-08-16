@@ -1,6 +1,6 @@
 {
   "name": "once-cb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "wrapper for calling callback only once",
   "main": "index.js",
   "directories": {
