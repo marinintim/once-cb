@@ -8,10 +8,9 @@ Barebone once-and-only-once callback transformer.
 ```
 var once = require('once-cb')
 
-var cb = once(function(res) {
+var cb = once(function() {
     console.log('callback!)
-    console.log('res:', res)
-}
+})
 
 cb() // console.log appears
 cb() // nothing happens
